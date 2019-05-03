@@ -9,4 +9,6 @@ Apr 12, 2019  Basic Probability Drill 2
 
 Apr 16, 2019 Sampling and the central limit theorem
 
-May 5, 2019  SQL Basic
+May 2, 2019  SQL Basic
+
+May 3, 2019 SQL Aggregating and Grouping
