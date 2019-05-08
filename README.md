@@ -12,3 +12,5 @@ Apr 16, 2019 Sampling and the central limit theorem
 May 2, 2019  SQL Basic
 
 May 3, 2019 SQL Aggregating and Grouping
+
+May 8 2019 SQL Joins and CTEs
