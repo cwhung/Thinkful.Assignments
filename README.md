@@ -14,3 +14,5 @@ May 2, 2019  SQL Basic
 May 3, 2019 SQL Aggregating and Grouping
 
 May 8 2019 SQL Joins and CTEs
+
+May 10, 2019 SQL Challenge AirBnb SF
